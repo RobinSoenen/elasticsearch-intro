@@ -9,6 +9,10 @@
   },
   "devDependencies": {},
   "scripts": {
+    "import_characters" :"node ./utils/character_script.js",
+    "import_episodes" :"node ./utils/episode_script.js",
+    "import_script_lines" :"node ./utils/episode_lines_scripts.js",
+    "import_locations" :"node ./utils/location_script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
